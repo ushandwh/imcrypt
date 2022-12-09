@@ -1,4 +1,4 @@
-# imcrypt (ISP_Proj)
+# wecrypt (ISP_Proj)
 
 This includes our ISP project on Image Encryption
 
@@ -18,19 +18,19 @@ A CLI that encrypts and decrypts png, jpg, jpeg images to a gibberish image and 
 ## Installation
 
 ```sh
-npm i -g imcrypt
+npm i -g wecrypt
 ```
 
 ## Usage
 
 ```sh
-imcrypt <command> [option]
+wecrypt <command> [option]
 ```
 
 or run it directly using npx
 
 ```sh
-npx imcrypt <command> [option]
+npx wecrypt <command> [option]
 ```
 
 ### commands
@@ -59,13 +59,13 @@ Command
 ### For encrypting an image myImage.png to encryptedImage.png and saving the key to key.txt
 
 ```sh
-imcrypt -e myImage.png -i encryptedImageName.png -p keyFile.txt
+wecrypt -e myImage.png -i encryptedImageName.png -p keyFile.txt
 ```
 
 output
 
 ```sh
- imcrypt  v0.0.1 by UnS
+ wecrypt  v1.0.1 by UnS
 An image encryption node-js cli
 
 ✔ Image read successfully
@@ -86,7 +86,7 @@ An image encryption node-js cli
 ### For decrypting an image encryptedImage.png with its key key.txt to decryptedImage.png
 
 ```sh
-imcrypt -d encryptedImage.png -k key.txt -i decryptedImage.png
+wecrypt -d encryptedImage.png -k key.txt -i decryptedImage.png
 ```
 
 output
