@@ -1,4 +1,4 @@
-# wecrypt (ISP_Proj)
+# wecrypt (ISP_Project_Module_IE3062)
 
 This includes our ISP project on Image Encryption
 
