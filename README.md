@@ -1,5 +1,8 @@
 # wecrypt (ISP_Project_Module_IE3062)
 
+IT20234270 - Rajapaksha K.R.M.U.S
+IT20239770 - Kumari K.A.S.M
+
 This includes our ISP project on Image Encryption
 
 There have been several suggested picture encryption techniques, and each one has its advantages and disadvantages. Our project idea is to develop a CLI that converts png, jpg, and jpeg photos into gibberish and gives you the key to decrypt it afterwards gives you total control over your images. The images must be encrypted in a way that prevents unauthorized individuals from accessing them via the internet without a secure key. For the purpose of preventing illegal access to the contents of encrypted photographs, we proposed a brand-new, safe, and reliable encryption method in this article. The primary characteristics of the cryptography algorithm discussed in this article include the combination of logical and visual cryptography, the ability to encrypt a secret image in stages, the ability to alter the physical structure of the secret image, the ability to make the resulting keys and encrypted image unique after the cryptography process, and more
